@@ -6,10 +6,19 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXFileReference section */
+		7ED0A2CB28AB70EB00D08B79 /* NetworkConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkConfig.swift; sourceTree = "<group>"; };
+		7ED0A2CC28AB724300D08B79 /* Webservice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Webservice.swift; sourceTree = "<group>"; };
+		7ED0A2CD28ABB00600D08B79 /* Endpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		7ED0A2C428AB70A500D08B79 = {
 			isa = PBXGroup;
 			children = (
+				7ED0A2CD28ABB00600D08B79 /* Endpoint.swift */,
+				7ED0A2CC28AB724300D08B79 /* Webservice.swift */,
+				7ED0A2CB28AB70EB00D08B79 /* NetworkConfig.swift */,
 			);
 			sourceTree = "<group>";
 		};
